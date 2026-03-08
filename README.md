@@ -104,7 +104,10 @@ and Edge.
 💡 Uses CSS Grid — a modern layout 
 
 
-method. No old float or table 
+method. 
+
+
+👉🏻No old float or table 
 
 
 tricks needed.
